@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth.tar
+*.pt
+*.bin
+experiments/
+data/
+.ipynb_checkpoints/
